@@ -1,4 +1,4 @@
-# Zerodha-Landing-Page
+# Zerodha-Landing-Page.
 
 Welcome to the Zerodha Landing Page project! This project is a simple yet elegant representation of Zerodha, designed to provide an overview of their services and attract potential customers. The page is built using basic web technologies: HTML and CSS, showcasing how powerful these tools can be when used effectively.
 
